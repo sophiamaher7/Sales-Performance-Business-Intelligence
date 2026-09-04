@@ -1,7 +1,7 @@
 # Sales Performance & Business Intelligence Solution
 
 
-## 📊 Project Overview
+## Project Overview
 
 An end-to-end Business Intelligence solution developed in Microsoft Power BI to analyze sales, profitability, customers, products, stores, employees, marketing performance, promotions, and operational performance.
 
@@ -11,7 +11,7 @@ The solution combines **data modeling, Power Query, DAX, time intelligence, KPI 
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 The main objectives of the project were to:
 
@@ -31,62 +31,7 @@ The main objectives of the project were to:
 
 ---
 
-# ❓ Business Questions
-
-The dashboard was developed to answer business questions from multiple perspectives.
-
-## Executive Management
-
-* How is the business performing overall?
-* What are the current revenue, cost, profit margin, and order levels?
-* How does current performance compare with the previous year?
-* Which KPIs are achieving their targets?
-* Where are the largest performance gaps?
-* How is business performance changing over time?
-
-## Sales Management
-
-* How are sales changing over time?
-* Which stores contribute the most to sales?
-* Which employees generate the strongest sales performance?
-* Which products or subcategories have high or low demand?
-* Which countries contribute most to sales?
-* How does average order value change across the business?
-* What areas require further investigation?
-
-## Marketing
-
-* How is marketing activity performing?
-* How many clicks/engagements are being generated?
-* How does marketing performance change across selected periods?
-* How does the selected period compare with the previous year?
-* How does performance change when different time ranges are selected?
-
-## Promotions
-
-* How many promotions are available during a selected month?
-* Which promotions are active during a given period?
-* How does promotion availability change over time?
-
-## Operations & Delivery
-
-* How many orders are scheduled for delivery within:
-
-  * The next 1 week?
-  * The next 15 days?
-  * The next 1 month?
-  * The next 6 months?
-* How does the selected delivery horizon affect the number of scheduled orders?
-
-## Detailed Analysis
-
-* Which countries or business areas require deeper investigation?
-* What additional information can be obtained through drill-through analysis?
-* How do high-level KPIs translate into detailed operational performance?
-
----
-
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 ### Business Intelligence
 
@@ -110,7 +55,7 @@ The dashboard was developed to answer business questions from multiple perspecti
 
 ---
 
-# 🔄 End-to-End Workflow
+# End-to-End Workflow
 
 The project followed a complete Business Intelligence workflow:
 
@@ -138,7 +83,7 @@ Business Insights
 
 ---
 
-# 🧹 Data Preparation
+# Data Preparation
 
 Power Query and data preparation techniques were used to transform the available data into analysis-ready structures.
 
@@ -153,7 +98,7 @@ The preparation process included:
 
 ---
 
-# 🧩 Data Modeling
+# Data Modeling
 
 A structured Power BI data model was developed to support interactive analysis across multiple business dimensions.
 
@@ -172,9 +117,11 @@ The analytical model supports analysis across areas including:
 
 The model was designed to allow users to move from high-level business KPIs into detailed analytical views while maintaining consistent filtering and calculations.
 
+<img width="1175" height="518" alt="Data Model " src="https://github.com/user-attachments/assets/e133441b-c09e-4b36-a69b-fa7fae708106" />
+
 ---
 
-# 📐 DAX & Analytical Logic
+# DAX & Analytical Logic
 
 DAX was used to create the core analytical measures and dynamic functionality of the dashboard.
 
@@ -202,7 +149,7 @@ Advanced DAX logic was also used to control filtering behavior and support inter
 
 ---
 
-# 📈 Dashboard Pages
+# Dashboard Pages
 
 ## 1. Executive Overview
 
@@ -309,7 +256,7 @@ This creates a more interactive self-service BI experience and allows users to i
 
 ---
 
-# ⚙️ Interactive Features
+# Interactive Features
 
 The dashboard incorporates several advanced Power BI features:
 
@@ -330,7 +277,7 @@ The dashboard incorporates several advanced Power BI features:
 
 ---
 
-# 📊 Key Analytical Capabilities
+# Key Analytical Capabilities
 
 The project demonstrates the ability to move beyond basic dashboard creation by connecting business requirements with analytical logic.
 
@@ -340,7 +287,7 @@ The solution covers the complete process of:
 
 ---
 
-# 💡 Business Value
+# Business Value
 
 The solution provides stakeholders with an interactive environment for monitoring performance and investigating business drivers.
 
@@ -359,7 +306,7 @@ This supports faster and more informed data-driven decision-making.
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 Additional dashboard screenshots are available in the [`Screenshots`](Screenshots/) folder.
 
@@ -404,7 +351,7 @@ https://github.com/sophiamaher7
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Sophia Maher Gerges**
 
